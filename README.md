@@ -1,5 +1,4 @@
-# ProjetoDIO-Ransoware-Keylogger
-# 🛡️ Projeto: Ransomware & Keylogger – Bootcamp Santander Cyber Segurança 2025
+# Projeto DIO - Ransoware & Keylogger
 
 Este projeto foi desenvolvido como parte do Bootcamp Santander Cyber Segurança 2025, com o objetivo de aplicar conceitos de segurança ofensiva em ambientes controlados. As ferramentas criadas simulam comportamentos reais de ameaças cibernéticas, permitindo o estudo aprofundado de técnicas utilizadas em pentests e análise forense.
 

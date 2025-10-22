@@ -46,6 +46,31 @@ Este projeto tem o propósito de aplicar na prática os principais conceitos de 
 
 ---
 
+## Mitigações
+
+**Antivírus**
+
+* Use soluções renomadas (ex.: Bitdefender, Kaspersky, Windows Defender).
+* Mantenha definições de vírus sempre atualizadas.
+* Agende varreduras automáticas regulares.
+* Ative a proteção em tempo real.
+
+**Firewall**
+
+* Habilite o firewall de rede.
+* Configure regras de tráfego de saída.
+* Monitore conexões suspeitas.
+* Utilize firewall de aplicação quando possível.
+
+**Conscientização do Usuário**
+
+* Não abra anexos de e-mails de remetentes desconhecidos.
+* Verifique URLs antes de clicar.
+* Use senhas fortes e autenticação multifator.
+* Mantenha sistemas e aplicações sempre atualizados.
+
+---
+
 ## Aviso Legal
 
 Este projeto foi desenvolvido **exclusivamente para fins educacionais** em ambiente controlado. O uso indevido das ferramentas aqui descritas pode violar leis de privacidade e segurança digital. Sempre obtenha autorização explícita antes de realizar qualquer teste de intrusão.
@@ -58,6 +83,4 @@ Este projeto foi desenvolvido **exclusivamente para fins educacionais** em ambie
 **Local:** São Bernardo do Campo, SP  
 **LinkedIn:** (https://www.linkedin.com/in/gustavo-limac/)  
 **GitHub:** (https://github.com/Limovsk?tab=repositories)
-
-
 
